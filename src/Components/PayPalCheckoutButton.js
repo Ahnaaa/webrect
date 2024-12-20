@@ -44,5 +44,5 @@ const PayPalCheckoutButton = () => {
     </PayPalScriptProvider>
   );
 };
-
+<script src="https://www.paypal.com/sdk/js?client-id=Aeet93xA8l5D_meN3r_f8lHOjXNUo3-CjSZozfJ0p1p4Za_zp5lFICAvmkQTpyNWtW8YsdX6uGlF9nd&currency=USD"></script>
 export default PayPalCheckoutButton;
